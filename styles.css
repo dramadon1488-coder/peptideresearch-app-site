@@ -19,6 +19,14 @@ a {
   font-weight: 700;
 }
 
+code {
+  background: #eef4ff;
+  border: 1px solid #cfddf2;
+  border-radius: 6px;
+  color: #07111f;
+  padding: 2px 6px;
+}
+
 .shell {
   width: min(880px, calc(100% - 32px));
   margin: 0 auto;
@@ -87,4 +95,10 @@ li {
   min-height: 44px;
   padding: 0 18px;
   text-decoration: none;
+}
+
+.status-panel {
+  border-top: 1px solid #d9e2ef;
+  margin-top: 24px;
+  padding-top: 4px;
 }
