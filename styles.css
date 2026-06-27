@@ -112,6 +112,10 @@ li {
   text-decoration: none;
 }
 
+.secondary-button {
+  background: #07111f;
+}
+
 .status-panel {
   border-top: 1px solid #d9e2ef;
   margin-top: 24px;
